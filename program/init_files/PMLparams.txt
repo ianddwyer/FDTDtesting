@@ -1,0 +1,48 @@
+PMLXMinus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+10
+3
+1
+5
+0.01
+1
+6.539
+PMLXPlus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+10
+3
+1
+5
+0.01
+1
+6.539
+PMLYMinus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+10
+3
+1
+1
+0.0
+1
+6.539
+PMLYPlus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+10
+3
+1
+1
+0.00
+1
+6.539
+PMLZMinus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+0
+3
+1
+5
+0.01
+1
+1
+PMLZPlus (npmlCells m sigmaOptMultiplier kappaMAx aMax ma  epsEff)
+10
+3
+1
+5
+0.01
+1
+1
